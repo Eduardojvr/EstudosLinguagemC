@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1485285752 source:c:\users\eduardo\documents\linguagem c\lista_simples_02\main.c
+	<stdio.h>
+	<stdlib.h>
+

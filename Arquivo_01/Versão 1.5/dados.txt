@@ -1,0 +1,62 @@
+eduardo
+ 21
+paulo
+ 28
+mateus
+ 27
+joaquina
+ 27
+joao
+ 29
+andreia
+ 27
+julia
+ 56
+paula
+ 24
+juliana
+ 28
+andre
+ 34
+guilherme
+ 49
+gustavo
+ 18
+marcos
+ 16
+pedro
+ 24
+sabino
+ 13
+juliano
+ 46
+maquito
+ 64
+matos
+ 47
+glicerio
+ 43
+neide
+ 48
+katy
+ 75
+karol
+ 47
+martins
+ 72
+samara
+ 71
+adolfo
+ 43
+joana
+ 24
+ananda
+ 26
+amanda
+ 21
+bruno
+ 42
+ana
+ 24
+eduardo
+ 21
